@@ -6,4 +6,6 @@ Real-time BCIs:
 
 [EEG glasses for real-time brain electrical activity monitoring](https://www.nature.com/articles/s41598-025-29893-4) (Nature, 2025)
 
+[EEG-based brain-computer interface enables real-time robotic hand control at individual finger level](https://www.nature.com/articles/s41467-025-61064-x) (Nature, 2025)
+
 
